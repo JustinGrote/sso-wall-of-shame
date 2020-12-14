@@ -351,6 +351,14 @@
   pricing_source: https://trello.com/pricing
   updated_at: 2018-10-17
 
+- name: Toggl
+  url: https://toggl.com
+  base_pricing: $9 per u/m
+  sso_pricing: $18 per u/m
+  percent_increase: 100%
+  pricing_source: https://toggl.com/track/pricing/
+  updated_at: 2020-12-14
+
 - name: Twilio
   url: https://twilio.com
   base_pricing: $0
